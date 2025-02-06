@@ -1,2 +1,2 @@
 # KG2RAG
-Knowledge Graph-guided Retrieval Augmented Generation, NAACL 2025
+Knowledge Graph-Guided Retrieval Augmented Generation, NAACL 2025
